@@ -59,11 +59,3 @@
 <h4 align="left">🔥 My Stats:<br><br>💼 Role: Software Engineer<br><br>🧠 Focus: Clean Architecture • Scalable Systems • Code Quality<br><br>📱 Expertise: Flutter (Dart) • C# • Web & Mobile Development<br><br>🗄 Databases: MySQL • PostgreSQL • SQL Server • Firebase<br><br>⚙ Tools: Git • GitHub • Agile & Scrum<br><br>🚀 Experience: ERP Systems • Delivery & Trip Management Apps • Data-Driven Platforms</h4>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-Elias778/Eng-Elias778/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-Elias778/Eng-Elias778/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eng-Elias778/Eng-Elias778/output/pacman-contribution-graph.svg">
-</picture>
-
-###
